@@ -1,0 +1,12 @@
+#container{
+  height: 256px;
+  width: 768px;
+  position: relative;
+  background-color: yellow;
+}
+#image {
+  height: 256px;
+  width: 256px;
+  position: absolute;
+  background: url('spritestrip.png') 0px 0px;
+}
